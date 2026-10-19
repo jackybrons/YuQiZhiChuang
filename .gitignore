@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Runtime output
+output/
+.gradio/
+temp_record.wav
+normalized.wav
+result_*.txt
+novel_record.md
+script_record.md
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
